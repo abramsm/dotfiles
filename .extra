@@ -1,5 +1,5 @@
 # PATH additions
-export PATH="~/work/hydra/hydra-config/tools:$PATH"
+export PATH="/usr/local/git/bin:~/bin:~/work/hydra/hydra-config/tools:$PATH"
 
 #git
 GIT_AUTHOR_NAME="Matt Abrams"
